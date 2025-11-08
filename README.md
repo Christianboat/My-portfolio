@@ -1,14 +1,6 @@
 # 🎨 **Christian Boateng — Full-Stack Editable Portfolio**
 
-> A modern, customizable portfolio system designed with a **white + orange + green visual identity** — clean, fresh, and vibrant. This README showcases the project features. *(Source code is private.)*
-
----
-
-## 🍊🍃 **Color Theme**
-
-* **White (#FFFFFF)** – Clean base
-* **Orange (#FF8A00)** – Accent / highlights
-* **Green (#16A34A)** – Secondary / success theme
+> A modern, customizable portfolio system. This README showcases the project features. *(Source code is private.)*
 
 ---
 
@@ -54,10 +46,9 @@ From the dashboard, the user can modify:
 * 📝 About content
 * ⚙️ Skills & Interests
 * 🎓 Education
-* 💼 Experience
 * 📂 Projects
 * 🔗 Social links
-* 🖼️ Images & Icons
+
 
 > All without touching the source code.
 
@@ -68,8 +59,8 @@ From the dashboard, the user can modify:
 > Showcase interface previews here
 
 ```
-![Portfolio Home](my-portfolio/image_1.png)
-![Admin Dashboard](path-to-image)
+![Portfolio Admin Login](image_1.png)
+![Admin Dashboard](image_2.png)
 ```
 
 ---
@@ -87,7 +78,7 @@ Most portfolios are static and require coding for updates — not this one.
 
 ## 🔗 **Live Demo**
 
-*(Coming soon)*
+*([My portfolio](https://christianboateng.sevalla.app/))*
 
 ---
 
