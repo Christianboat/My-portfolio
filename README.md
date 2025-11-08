@@ -68,7 +68,7 @@ From the dashboard, the user can modify:
 > Showcase interface previews here
 
 ```
-![Portfolio Home](path-to-image)
+![Portfolio Home](my-portfolio/image_1.png)
 ![Admin Dashboard](path-to-image)
 ```
 
